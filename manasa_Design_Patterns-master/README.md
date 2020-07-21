@@ -1,2 +1,2 @@
-# kiran_Design_Patterns
+# manasa_Design_Patterns
 epam
